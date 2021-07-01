@@ -1,0 +1,317 @@
+0 HEAD
+  1 LANG English
+0 @I1@ INDI
+1 NAME Petrus Marinus /Louwaert/
+  2 SURN Louwaert
+  2 GIVN Petrus Marinus
+1 SEX M
+1 BIRT
+  2 DATE 3 May 1875
+  2 PLAC Gent, Oost-Vlaanderen, Belgium
+1 DEAT
+  2 DATE 18 Apr 1947
+  2 PLAC San Francisco, California, United States
+1 RESI
+  2 DATE 1898
+  2 PLAC San Francisco, California, United States
+1 RESI
+  2 DATE 9 Apr 1930
+  2 PLAC San Francisco, San Francisco, California, United States
+1 RESI
+  2 DATE 3 Jan 1920
+  2 PLAC San Francisco, San Francisco, California, United States
+1 NATU
+  2 DATE 1887
+1 OCCU Dressmaker
+1 EDUC
+  2 PLAC San Francisco, San Francisco, California, United States
+1 BATM
+  2 PLAC
+  2 DATE
+1 STLB
+1 EVEN
+  2 TYPE Arrival 
+  2 DATE 1877
+1 NOTE Record of birth as registered with civil authority -- Petrus Marinus Louwaert
+  2 CONT http://trees.ancestry.com/rd?f=image&guid=ff877b87-424a-4d85-9570-3d9f1541aec3&tid=14578697&p
+  2 CONC id=2160
+  2 CONT 
+  2 CONT Marriage announcement for Peter Louwaert and Lizzie Zupar
+  2 CONT http://trees.ancestry.com/rd?f=image&guid=875bf461-84cb-4b2e-9888-b0b8ef0ae104&tid=14578697&p
+  2 CONC id=2160
+1 CHAN
+  2 DATE 10 May 2012
+    3 TIME 01:00:00
+0 @I2@ INDI
+1 NAME William Joseph /Louwaert/
+  2 SURN Louwaert
+  2 GIVN William Joseph
+1 SEX M
+1 BIRT
+  2 DATE 8 Nov 1908
+  2 PLAC San Francisco, California, United States
+1 DEAT
+  2 DATE 24 May 1977
+  2 PLAC Alameda, California, United States
+1 _UID 7F427879DF772A4C974E02B5DC32CCEBDF5C
+1 RESI
+  2 DATE 3 Jan 1920
+  2 PLAC San Francisco, San Francisco, California, United States
+  2 SOUR @S5@
+1 RESI
+  2 DATE 20 Apr 1910
+  2 PLAC San Francisco, San Francisco, California, United States
+1 CHAN
+  2 DATE 10 May 2012
+    3 TIME 01:00:00
+0 @I2@ INDI
+1 NOTE Most of these facts are taken from real Gedcom 5.5 files, which is why some of them are not standard
+1 CITN
+  2 DATE 1853
+1 DWEL 88 Brookside Drive, Toronto
+1 EXCO
+  2 DATE 17 JAN 1850
+  2 PLAC GEORGIA FAMILY PLANTATION
+1 _EXCM
+  2 DATE 31 DEC 1911
+  2 PLAC Church of Chrisi Blue Bayou, disorderly conduct
+1 _FUN
+  2 DATE 1 MAR 1766
+  2 PLAC Mexico
+1 _FNRL
+  2 DATE 1 JAN 1911
+  2 PLAC Canada
+1 ILL Dysentery
+  2 DATE 1 JUL 1853
+  2 PLAC Oregon Trail
+1 ILLN Typhus
+  2 DATE 13 JUN 1821
+  2 PLAC England
+1 BLSL
+  2 DATE 31 May 1928
+  2 PLAC Bakersfield, Kern, California
+1 BLESS
+  2 DATE 1 JUN 1922
+  2 PLAC Johannesburg, South Africa
+1 _INTE
+  2 DATE 3 DEC 1867
+1 LVG
+1 MIL Corporal In The Militia, 1707
+1 _MIL
+  2 DATE from 15 JUN 1949 until 1 JUL 1971
+  2 _RNK Major U.S.A.F.
+  2 _STA Retired
+1 MILI Naval Lieutenant - Senior Grade
+1 MILI Union Soldier during Civil War
+1 _MILT
+  2 PLAC Co K 182d Regt OVI - Civil War
+1 MILT
+  2 DATE 1776
+  2 PLAC Private in the Revolutionary War
+1 _MILITARY_SERVICE
+  2 DATE 10 FEB 1865
+  2 PLAC Private, Mustered Out, Harpers Ferry, VA
+1 _MISE
+  2 DATE 11 FEB 1865
+1 MISE
+  2 DATE 13 FEB 1865
+1 _MILTID
+  2 DATE 14 FEB 1865
+1 MILA
+  2 DATE 15 FEB 1865
+1 MILD
+  2 DATE 13 JUN 1866
+1 MISN
+  2 DATE 6 JUL 1930
+  2 PLAC Southern States
+1 _MISN
+  2 DATE 7 JUL 1934
+  2 PLAC Utah
+1 MOVE
+  2 DATE 1886
+  2 PLAC Albany, Gentry Co, MO
+1 ORDI no
+1 ORDL
+  2 DATE 1886
+1 STIL death
+1 STLB
+1 RACE German
+1 RESIR Colorado
+1 BAP
+  2 DATE 8 AUG 1770
+  2 PLAC All Saints Church, Fulham, London
+1 BAPT
+  2 DATE 12 NOV 1797
+1 _NAMS Jacob's brother
+1 EMPL
+  2 DATE 1978
+  2 PLAC Nashville, Tennessee
+1 _EMPLOY
+  2 DATE 1981
+  2 PLAC Nashville, Tennessee
+1 _DEG
+  2 DATE DEC 1973
+  2 PLAC Bachelor of Arts, English
+1 _DEGREE
+  2 DATE 10 MAY 1980
+  2 PLAC Masters in Education
+1 ENLIST
+  2 DATE 1881
+1 SOC_ 528-30-8888
+0 @I3@ INDI
+1 NOTE Most of these facts are taken from real Gedcom 5.5 files, which is why some of them are not standard
+1 CAST
+  2 DATE 1850
+  2 PLAC Newbury, Ma.
+1 CASTE
+  2 PLAC Brahmin
+1 DSCR Age: 44
+1 PHY_DESCRIPTION 5'7", 165#, medium complexion, brown eyes & hair
+1 EDUC Ryder College,
+  2 DATE 1934-
+  2 PLAC Trenton, NJ
+1 EDUCATION B.A. In Sociology And Applied Criminal Justice
+1 IDNO Glendale Az.
+1 IDENT_NUMBER Whistler, Alabama now Prichard Al
+1 NATI Chinese
+1 NATIONALITY Swedish
+1 NCHI 2
+1 CHILDREN_COUNT 5
+1 NMR
+  2 PLAC 4
+1 MARRIAGE_COUNT 3
+1 OCCU Teacher, Tabernacle Christian School
+1 OCCUPATION Kruidenier
+1 PROP
+  2 DATE 18 FEB 1768
+  2 PLAC Bought 100 acres in Windham county, Connecticut for 84 pounds
+1 PROPERTY 43 MAPPERLAY ROAD (THE LODGE HOUSE)
+1 RELI Quaker
+1 RELIGION Church of Christ
+1 RESI Russia, Oh, Dayton, Oh, West Milton, Oh
+1 RESIDENCE
+  2 DATE ABT 1740
+  2 PLAC Brocks Gap, VA
+1 SOC_SEC_NUMBER 485-70-7507
+1 SSN
+  2 PLAC  094-28-1549
+1 TITL Jr
+1 TITLE Rev.
+1 ADOP
+  2 PLAC Troy, NY, USA
+1 ADOPTION
+  2 PLAC Honolulu, Oahu, HI
+1 BAPM
+  2 DATE 16 APR 1923
+  2 PLAC St Nathanial PE Church, Phila
+1 BAPTISM
+  2 DATE 20 JUN 1919
+  2 PLAC Chicago, IL
+1 BARM
+  2 DATE 1864
+  2 PLAC KRAKOW, AUSTRIA
+1 BAR_MITZVAH
+  2 DATE 4 SEP 1983
+  2 PLAC Temple Israel, Memphis, Tennessee, United States of America
+1 BASM
+  2 DATE 1964
+  2 PLAC BETH ABRAHAM, NO. BERGEN, NJ
+1 BAS_MITZVAH
+  2 DATE 1965
+  2 PLAC BETH ABRAHAM, NO. BERGEN, NJ
+1 BATM
+  2 DATE 1864
+  2 PLAC BETH ABRAHAM, NO. BERGEN, NJ
+1 BAT_MITZVAH
+  2 DATE 1866
+  2 PLAC BETH ABRAHAM, NO. BERGEN, NJ
+1 BLES
+  2 PLAC HUBBARDSVILLE, NEW YORK
+1 BLESSING
+  2 DATE 31 JUL 1994
+  2 PLAC St. Joseph's, Stephentown, NY
+1 BURI
+  2 DATE 13 Dec 1946
+  2 PLAC St. Louis No. 3 Cemetery, Toca/Rotge Tomb.
+1 BURIAL
+  2 DATE 14 Dec 1946
+  2 PLAC St. Louis No. 3 Cemetery, Toca/Rotge Tomb.
+1 CENS
+  2 DATE 02 JUN 1880
+  2 PLAC 1880, Sullivan Co., MO, USA
+1 CENSUS
+  2 DATE 02 JUN 1881
+  2 PLAC 1880, Sullivan Co., MO, USA
+1 CHR
+  2 DATE 30 MAY 1865
+  2 PLAC Brigham City,Weber Co,UT
+1 CHRISTENING
+  2 DATE 1 MAY 1865
+  2 PLAC Brigham City,Weber Co,UT
+1 CHRA
+  2 DATE 24 APR 1674
+1 ADULT_CHRISTNG
+  2 DATE 25 APR 1674
+1 CONF
+  2 DATE 16 Nov 1997
+  2 PLAC Mass of Christian Burial, St. Boniface Church, Piqua 10:00 AM.
+1 CONFIRMATION
+  2 DATE 13 Nov 1997
+  2 PLAC Mass of Christian Burial, St. Boniface Church, Piqua 10:00 AM.
+1 CREM
+  2 DATE 10 MAR 1999
+  2 PLAC Hudson, Fla
+1 CREMATION
+  2 DATE 1 MAR 1999
+  2 PLAC Hudson, Fla
+1 EMIG
+  2 DATE 1886
+  2 PLAC Came to Thomas County, Iowa in covered wagon
+1 EMIGRATION
+  2 DATE 1885
+  2 PLAC Came to Thomas County, Iowa in covered wagon
+1 FCOM
+  2 DATE 7 MAY 1921
+  2 PLAC Church of Good Shepard, Manhatten, N.Y.C.,NY
+1 FIRST_COMMUNION
+  2 DATE 7 MAY 1922
+  2 PLAC Church of Good Shepard, Manhatten, N.Y.C.,NY
+1 GRAD
+  2 DATE 5 JUN 1954
+  2 PLAC Central Kitsap High  Silverdale Washington
+1 GRADUATION
+  2 DATE 18 JUN 1954
+  2 PLAC Central Kitsap High  Silverdale Washington
+1 IMMI
+  2 DATE 1724
+  2 PLAC "Francis"
+1 IMMIGRATION
+  2 DATE 1734
+  2 PLAC "Francis"
+1 ORDN
+  2 DATE 31 MAR 1744
+  2 PLAC Canterbury, Windham Co., CT.
+1 ORDINATION
+  2 DATE 1 MAY 1744
+  2 PLAC Canterbury, Windham Co., CT.
+1 NATU
+  2 DATE 6 OCT 1854
+  2 PLAC Philadelphia, Philadelphia Co., Pennsylvania
+1 NATURALIZATION
+  2 DATE 7 OCT 1854
+  2 PLAC Philadelphia, Philadelphia Co., Pennsylvania
+1 PROB
+  2 DATE 31 APR 1807
+  2 PLAC Allegheny Co., Pennsylvania
+1 PROBATE
+  2 DATE 28 APR 1807
+  2 PLAC Allegheny Co., Pennsylvania
+1 RETI
+  2 PLAC Seidersville, PA
+1 RETIREMENT
+  2 DATE 1967
+  2 PLAC Oklahoma City, Oklahoma
+1 WILL
+  2 DATE 22 APR 1761
+  2 PLAC Rowan  Co, NC
+
