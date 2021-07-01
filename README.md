@@ -1,3 +1,4 @@
-#GedWorx
-[![Actions Status](https://github.com/<github_username>/<repo>/workflows/build/badge.svg)](https://github.com/<github_username>/<repo>/actions)
-[![codecov](https://codecov.io/gh/<github_username>/<repo>/branch/master/graph/badge.svg)](https://codecov.io/gh/<github_username>/<repo>)
+#GedWorx  
+
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![codecov](https://codecov.io/gh/jason-costello/gedworkx/branch/master/graph/badge.svg)](https://codecov.io/gh/jason-costello/gedworx)
