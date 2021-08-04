@@ -1,4 +1,5 @@
 .idea
 vendor
-Boyd.ged
+gedcom/Boyd.ged
 gedworx.iml
+/gedcom/
